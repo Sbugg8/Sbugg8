@@ -1,2 +1,2 @@
-- 👋 Hi, I’m shayna
+- 👋 Hi,my name is Shayna
 
