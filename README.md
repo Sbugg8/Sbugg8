@@ -1,4 +1,4 @@
-- 👋 Hi,my name is Shayna, www.linkedin.com/in/shayna-bugg-60a144264
+- 👋 Hi,my name is Shayna, an aspiring IT Professional www.linkedin.com/in/shayna-bugg-60a144264
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
