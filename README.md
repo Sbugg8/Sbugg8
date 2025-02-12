@@ -1,5 +1,7 @@
-- 👋 Hi,my name is Shayna, an aspiring IT Professional www.linkedin.com/in/shayna-bugg-60a144264
-<h2>👨‍💻 Information Technology Projects:</h2>
+- 👋 Welcome! My name is Shayna, an aspiring IT Professional www.linkedin.com/in/shayna-bugg-60a144264
+<h2>                                       </h2>
+ Here are some of my latest projects.
+ <h2> 👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Sbugg8/osticket-prereqs)
