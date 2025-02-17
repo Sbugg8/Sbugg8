@@ -12,4 +12,4 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Sbugg8/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
-[linkedin] https://linkedin.com/in/shayna-bugg
+[linkedin]: https://www.linkedin.com/in/shayna-bugg
