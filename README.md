@@ -1,4 +1,5 @@
-- 👋 Welcome! My name is Shayna, an IT Professional 
+- 👋 Welcome! My name is Shayna,an <a href="https://linkedin.com /in/shayna-bugg">
+IT Professional 
 <h2>                                       </h2>
  Here are some of my latest projects.
  <h2> 👨‍💻 Information Technology Projects:</h2>
