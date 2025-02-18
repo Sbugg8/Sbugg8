@@ -17,5 +17,5 @@ IT Professional
 
 <h2>🤳Connect with me:</h2>
 
-![image](https://github.com/user-attachments/assets/249016b9-06b3-451b-a5ce-6e957fe92377)<a href="https://www.linkedin.com/in/shayna-bugg/">
+
 
