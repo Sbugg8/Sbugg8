@@ -7,7 +7,8 @@
   - [osTicket: Prerequisites and Installation](https://github.com/Sbugg8/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/Sbugg8/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Sbugg8/ticket-lifecycle)
-- <b>Microsoft Azure</b>
+- <b>Microsoft Azure</b>![image](https://github.com/user-attachments/assets/fb349cc2-6574-4cdc-b78d-4fb4f77dd1d7)
+
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Sbugg8/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Sbugg8/azure-network-protocols)
   - [Understanding Domain Name System (DNS)](https://github.com/Sbugg8/understandingDNS)
