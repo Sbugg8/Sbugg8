@@ -10,7 +10,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Sbugg8/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Sbugg8/azure-network-protocols)
-  - [Undersyanding Domain Name System (DNS)](https://github.com/Sbugg8/understandingDNS)
+  - [Understanding Domain Name System (DNS)](https://github.com/Sbugg8/understandingDNS)
     
 
 <h2>🤳Connect with me:</h2>
