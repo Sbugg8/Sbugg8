@@ -23,3 +23,13 @@ using industry tools like Tenable, Microsoft Defender for Endpoint, and Azure.
 | [osTicket: Ticket Lifecycle](https://github.com/Sbugg8/ticket-lifecycle) | End-to-end ticket workflow simulation | osTicket |
 | [Active Directory Configuration](https://github.com/Sbugg8/configure-ad) | AD setup, users, group policy | Azure, Windows Server |
 | [Azure Network Protocols](https://github.com/Sbugg8/azure-network-protocols) | Network traffic analysis and NSG config | Azure, Wireshark |
+---
+
+## 🛠️ Skills
+`Vulnerability Management` `SIEM` `Cloud Security` `Azure`
+`Nessus` `PowerShell` `Linux` `Incident Response`
+
+---
+
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/shayna-bugg/)
