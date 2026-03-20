@@ -13,10 +13,13 @@ using industry tools like Tenable, Microsoft Defender for Endpoint, and Azure.
 - Microsoft AZ-900 (Azure Fundamentals)
 
 ---
-
 ## 🔧 Projects
 
 | Project | Description | Tools |
 |---------|-------------|-------|
-| [Vulnerability Management Lab](https://github.com/S
-| [osTicket Help Desk](https://github.com/Sbugg8/osticket-prereqs) | Help desk ticketing system setup and configuration | osTicket, Azure, IIS |
+| [Vulnerability Management Lab](https://github.com/Sbugg8) | Enterprise vulnerability scanning and remediation | Tenable, Azure, PowerShell |
+| [osTicket: Prerequisites & Install](https://github.com/Sbugg8/osticket-prereqs) | Help desk ticketing system deployment | osTicket, Azure, IIS |
+| [osTicket: Post-Install Config](https://github.com/Sbugg8/post-install-config) | Roles, departments, SLA configuration | osTicket |
+| [osTicket: Ticket Lifecycle](https://github.com/Sbugg8/ticket-lifecycle) | End-to-end ticket workflow simulation | osTicket |
+| [Active Directory Configuration](https://github.com/Sbugg8/configure-ad) | AD setup, users, group policy | Azure, Windows Server |
+| [Azure Network Protocols](https://github.com/Sbugg8/azure-network-protocols) | Network traffic analysis and NSG config | Azure, Wireshark |
