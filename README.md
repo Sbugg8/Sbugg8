@@ -19,3 +19,4 @@ using industry tools like Tenable, Microsoft Defender for Endpoint, and Azure.
 | Project | Description | Tools |
 |---------|-------------|-------|
 | [Vulnerability Management Lab](https://github.com/S
+| [osTicket Help Desk](https://github.com/Sbugg8/osticket-prereqs) | Help desk ticketing system setup and configuration | osTicket, Azure, IIS |
