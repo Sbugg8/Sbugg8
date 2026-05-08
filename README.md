@@ -30,6 +30,7 @@ same enterprise tooling deployed in production environments.
 | [IAM Audit & Access Governance](https://github.com/Sbugg8/iam-audit-lab) | Entra ID access review, Conditional Access gap analysis, PIM configuration, and RBAC audit | Microsoft Entra ID |
 | [IT Service Desk Implementation](https://github.com/Sbugg8/osticket-prereqs) | End-to-end help desk deployment including ticketing workflows and user lifecycle management | osTicket, Azure, IIS |
 | [Okta IAM Lab](https://github.com/Sbugg8/okta-iam-lab) | Identity lifecycle management, SSO configuration, and MFA policy implementation via Okta's Next Level Learning program | Okta, Okta Workflows |
+| [bay-state-iam-ops](https://github.com/Sbugg8/bay-state-iam-ops) | Simulated IAM operations for a fictional Massachusetts health system. Okta tenant, group rules, lifecycle workflows, runbooks, and audit evidence — operated end-to-end as a junior IAM analyst. | Okta |
 ---
 
 ## Technical Skills
